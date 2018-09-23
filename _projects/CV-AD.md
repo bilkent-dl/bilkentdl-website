@@ -1,4 +1,3 @@
-
 ---
 title: Computer Vision for Anomaly  Detection
 
