@@ -18,7 +18,7 @@ anomalies from normal patterns.
 people:
   - rumeyza
   - fatih_ilhan
-  - 
+  - ebrar
 
 layout: project
 last-updated: 2018-09-23
