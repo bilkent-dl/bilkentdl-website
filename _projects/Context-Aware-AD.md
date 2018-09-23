@@ -11,7 +11,8 @@ people:
   - ebrar
   - huseyin
   - sena
-  - wolverine
+  - emir
+  - selin
 
 layout: project
 last-updated: 2018-09-23
