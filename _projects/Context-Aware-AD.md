@@ -10,10 +10,6 @@ people:
   - huseyin
   - sena
   - emir
-  - selin
-  - ebrar
-  - rumeyza
-  - fatih_ilhan
 
 layout: project
 last-updated: 2018-09-23
