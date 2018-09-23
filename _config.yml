@@ -13,22 +13,12 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: faculty
     name: Faculty
-  - key: staff
-    name: Staff
-  - key: postdoc
-    name: Researchers
   - key: phd
     name: PhD Students
   - key: ms
     name: M.S. Students
   - key: ugrad
     name: Undergraduate Students
-  - key: ugrad-alum
-    name: Past Undergraduate Students
-  - key: collab
-    name: Collaborators
-  - key: alum
-    name: Alumni
   - 
 
 # Number of news stories on the front page.
