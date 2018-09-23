@@ -1,3 +1,4 @@
+
 ---
 title: Computer Vision for Anomaly  Detection
 
@@ -23,6 +24,7 @@ people:
 layout: project
 last-updated: 2018-09-23
 ---
+
 
 Surveillance cameras are increasingly being used in pub-
 lic places: streets, intersections, banks, and shopping malls 
