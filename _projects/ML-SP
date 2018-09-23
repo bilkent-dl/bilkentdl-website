@@ -1,0 +1,33 @@
+---
+title: Machine Learning for Big Data Signal Processing
+
+description: |
+  One critical task in video surveillance is
+  detecting anomalous events such as traffic accidents, crimes
+  or illegal activities. Generally, anomalous events rarely oc-
+  cur as compared to normal activities. Therefore, to allevi-
+  ate the waste of labor and time, developing intelligent com-
+  puter vision algorithms for automatic video anomaly detec-
+    tion  is  a  pressing  need.  The  goal  of  a  practical  anomaly
+  detection system is to timely signal an activity that deviates
+  normal patterns and identify the time window of the occur-
+  ring anomaly. Therefore, anomaly detection can be consid-
+  ered as coarse level video understanding, which filters out
+  anomalies from normal patterns.
+
+people:
+  - emir
+  - fatih
+
+layout: project
+last-updated: 2018-09-23
+---
+
+
+Due to outstanding developments in sensor technologies, wide spread usage of smart phones and Internet, we now have the opportunity and capability to gather huge amounts of data in different real life signal processing applications (which was not possible in the past). Efficient and effective processing of this big data can significantly improve the performance of many signal processing algorithms. However, this big data has dimensions and volumes unseen before in signal processing problems, comes in different varieties and its quality, quantity and statistics rapidly change in time and among elements. To accommodate these problems, the big data should be adaptively processed by signal processing methods since the adaptive methods (1) can process the data online, i.e., instantly, without any storage requirement, (2) can constantly adapt to the changing statistics or quality of the data, hence can be robust and prone to variations and uncertainties.
+
+In this project, in order to effectively process the big data, we aim to develop novel adaptive signal processing algorithms specifically tuned to effectively operate on large dimensional data and construct the big data adaptive signal processing framework, as the first time, by defining new cost measures and design methodologies.
+
+Please refer to [Machine Learning for Big Data Signal Processing](http://kilyos.ee.bilkent.edu.tr/~kozat/research/big_data.html) for more information.
+
+Please refer to [Big Data Adaptive Signal Processing Algorithms](http://kilyos.ee.bilkent.edu.tr/~kozat/research/113E517/113E517.html), [TUBITAK 113E517](http://kilyos.ee.bilkent.edu.tr/~kozat/research/113E517/113E517.html) for more information on several different projects and demos.
