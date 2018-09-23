@@ -40,6 +40,11 @@ ecem:
     role: ugrad
     image: /img/people/ecem.png
     
+fatih_ilhan:
+    display_name: "Fatih İlhan"
+    role: ugrad
+    image: /img/people/fatih_ilhan.png
+    
 
 hakan:
     display_name: "Hakan Gökçesu"
