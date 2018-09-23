@@ -34,7 +34,6 @@ sena:
 huseyin:
     display_name: "Hüseyin Orkun Elmas"
     role: ugrad
-    image: /img/people/huseyin.png
 
 ecem:
     display_name: "Ecem İlgün"
@@ -45,12 +44,10 @@ ecem:
 hakan:
     display_name: "Hakan Gökçesu"
     role: phd
-    image: /img/people/hakan.png
 
 ali:
     display_name: "Ali Hassan Mirza"
     role: phd
-    image: /img/people/ali.png
 
 ersin:
     display_name: "Ersin Yar"
@@ -60,7 +57,6 @@ ersin:
 mert:
     display_name: "Nuri Mert Vural"
     role: ms
-    image: /img/people/mert.png
 
 safa:
     display_name: "Safa Onur Şahin"
@@ -80,7 +76,6 @@ fatih:
 selin:
     display_name: "Selin Coşan"
     role: ms
-    image: /img/people/selin.png
 
 mine:
     display_name: "Mine Kerpiççi"
