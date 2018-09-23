@@ -11,6 +11,8 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
+  - key: researcher	
+    name: Researchers
   - key: faculty
     name: Faculty
   - key: phd
