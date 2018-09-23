@@ -85,3 +85,8 @@ mine:
     display_name: "Mine Kerpiççi"
     role: ms
     image: /img/people/mine.png
+
+ismail:
+    display_name: "İsmail Balaban"
+    role: researcher
+    image: /img/people/ismail.png
