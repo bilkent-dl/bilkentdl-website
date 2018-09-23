@@ -1,4 +1,28 @@
-### Computer Vision for Anomaly  Detection
+---
+title: Computer Vision for Anomaly  Detection
+
+description: |
+One critical task in video surveillance is
+detecting anomalous events such as traffic accidents, crimes
+or illegal activities. Generally, anomalous events rarely oc-
+cur as compared to normal activities. Therefore, to allevi-
+ate the waste of labor and time, developing intelligent com-
+puter vision algorithms for automatic video anomaly detec-
+tion  is  a  pressing  need.  The  goal  of  a  practical  anomaly
+detection system is to timely signal an activity that deviates
+normal patterns and identify the time window of the occur-
+ring anomaly. Therefore, anomaly detection can be consid-
+ered as coarse level video understanding, which filters out
+anomalies from normal patterns.
+
+people:
+  - rumeyza
+  - fatih_ilhan
+  - 
+
+layout: project
+last-updated: 2018-09-23
+---
 
 Surveillance cameras are increasingly being used in pub-
 lic places: streets, intersections, banks, and shopping malls 
