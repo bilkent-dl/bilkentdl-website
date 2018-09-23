@@ -3,36 +3,86 @@ kozat:
     webpage: "http://kilyos.ee.bilkent.edu.tr/~kozat/"
     role: faculty
     image: /img/people/kozat.png
-    bio: Professor
-
-
+    bio: Associate Professor
+    
 selim:
     display_name: "Selim Fırat Yılmaz"
     role: ugrad
     webpage: "https://github.com/selimfirat/"
     image: /img/people/selim.png
-    bio: Senior CS Student
     
 ebrar:
     display_name: "Muhammed Ebrar Erdem"
     role: ugrad
+    image: /img/people/ebrar.png
     
 rumeyza:
     display_name: "Rümeyza Dinçer"
     role: ugrad
+    image: /img/people/rumeyza.png
     
 batu:
     display_name: "Ergün Batuhan Kaynak"
     role: ugrad
+    image: /img/people/batu.png
 
 sena:
     display_name: "Sena Er"
     role: ugrad
+    image: /img/people/sena.png
 
 huseyin:
     display_name: "Hüseyin Orkun Elmas"
     role: ugrad
+    image: /img/people/huseyin.png
 
 ecem:
     display_name: "Ecem İlgün"
     role: ugrad
+    image: /img/people/ecem.png
+    
+
+hakan:
+    display_name: "Hakan Gökçesu"
+    role: phd
+    image: /img/people/hakan.png
+
+ali:
+    display_name: "Ali Hassan Mirza"
+    role: phd
+    image: /img/people/ali.png
+
+ersin:
+    display_name: "Ersin Yar"
+    role: phd
+    image: /img/people/ersin.png
+
+mert:
+    display_name: "Nuri Mert Vural"
+    role: ms
+    image: /img/people/mert.png
+
+safa:
+    display_name: "Safa Onur Şahin"
+    role: ms
+    image: /img/people/safa.png
+
+emir:
+    display_name: "Emir Ceyani"
+    role: ms
+    image: /img/people/emir.png
+
+fatih:
+    display_name: "Fatih Aslan"
+    role: ms
+    image: /img/people/fatih.png
+
+selin:
+    display_name: "Selin Coşan"
+    role: ms
+    image: /img/people/selin.png
+
+mine:
+    display_name: "Mine Kerpiççi"
+    role: ms
+    image: /img/people/mine.png
