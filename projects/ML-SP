@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bilkent Deep Learning Research Group: Machine Learning for Big Data Signal Processing</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+              integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+              crossorigin="anonymous">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/css/group.css">
+    </head>
+    <body>
+        <div class="container">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between">
+                <a href="/" class="">
+                    <img src="/img/logo.png"
+                         srcset="/img/logo@2x.png 2x"
+                         alt="Awesome" id="logo">
+                </a>
+                <ul class="nav nav-pills justify-content-center">
+
+                    
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/">
+                                Home
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/people.html">
+                                People
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link active"
+                               href="/research.html">
+                                Research
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/publications.html">
+                                Publications
+                            </a>
+                        </li>
+
+                    
+
+                </ul>
+            </div>
+
+            
+
+            
+                <h1>Machine Learning for Big Data Signal Processing</h1>
+            
+
+            Due to outstanding developments in sensor technologies, wide spread usage of smart phones and Internet, we now have the opportunity and capability to gather huge amounts of data in different real life signal processing applications (which was not possible in the past). Efficient and effective processing of this big data can significantly improve the performance of many signal processing algorithms. However, this big data has dimensions and volumes unseen before in signal processing problems, comes in different varieties and its quality, quantity and statistics rapidly change in time and among elements. To accommodate these problems, the big data should be adaptively processed by signal processing methods since the adaptive methods (1) can process the data online, i.e., instantly, without any storage requirement, (2) can constantly adapt to the changing statistics or quality of the data, hence can be robust and prone to variations and uncertainties.
+
+In this project, in order to effectively process the big data, we aim to develop novel adaptive signal processing algorithms specifically tuned to effectively operate on large dimensional data and construct the big data adaptive signal processing framework, as the first time, by defining new cost measures and design methodologies.
+
+Please refer to [Machine Learning for Big Data Signal Processing](http://kilyos.ee.bilkent.edu.tr/~kozat/research/big_data.html) for more information.
+
+Please refer to [Big Data Adaptive Signal Processing Algorithms](http://kilyos.ee.bilkent.edu.tr/~kozat/research/113E517/113E517.html), [TUBITAK 113E517](http://kilyos.ee.bilkent.edu.tr/~kozat/research/113E517/113E517.html) for more information on several different projects and demos.
+
+
+<h2> People </h2>
+<section class="people project-people">
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <img class="rounded-circle profile"
+             alt="Emir Ceyani"
+             title="Emir Ceyani"
+             src="/img/people/emir.png" />
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> Emir Ceyani </h6>
+            
+        </div>
+    </div>
+
+
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <img class="rounded-circle profile"
+             alt="Fatih Aslan"
+             title="Fatih Aslan"
+             src="/img/people/fatih.png" />
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> Fatih Aslan </h6>
+            
+        </div>
+    </div>
+
+
+    
+</section>
+
+
+            <div class="footer">
+                <p>
+                    <a href="http://bilkent.edu.tr/">Bilkent University</a>
+                </p>
+            </div>
+
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+                src="/js/srcset-polyfill.js"></script>
+    </body>
+</html>
