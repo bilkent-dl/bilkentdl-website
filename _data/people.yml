@@ -21,11 +21,6 @@ rumeyza:
     role: ugrad
     image: /img/people/rumeyza.png
     
-batu:
-    display_name: "Ergün Batuhan Kaynak"
-    role: ugrad
-    image: /img/people/batu.png
-
 sena:
     display_name: "Sena Er"
     role: ugrad
@@ -35,11 +30,6 @@ huseyin:
     display_name: "Hüseyin Orkun Elmas"
     role: ugrad
 
-ecem:
-    display_name: "Ecem İlgün"
-    role: ugrad
-    image: /img/people/ecem.png
-    
 fatih_ilhan:
     display_name: "Fatih İlhan"
     role: ugrad
