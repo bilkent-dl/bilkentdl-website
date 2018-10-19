@@ -1,5 +1,5 @@
 name: Bilkent Deep Learning Research Group
-url: http://bilkent.edu.tr
+url: http://deeplearning.bilkent.edu.tr
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
